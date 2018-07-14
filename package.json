@@ -10,6 +10,7 @@
     "native-base": "^2.7.1",
     "react": "16.4.1",
     "react-native": "0.56.0",
+    "react-native-admob": "2.0.0-beta.5",
     "react-native-in-app-utils": "5.5.0",
     "xmldom-alpha": "https://github.com/jindw/xmldom.git#366159a76a181ce9a0d83f5dc48205686cfaf9cc"
   },
